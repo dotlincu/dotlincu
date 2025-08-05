@@ -25,13 +25,25 @@
   
 ## 
 <div style="display: inline_block" align="center"><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=clusterizacao-risco-cardiaco&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=social-media-analysis&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CDInacio&repo=kanban&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UFOP-CSI477&repo=csi606-2023-02-atividades-sirlincu&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=GraphAlgorithms&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=adote-facil&theme=dark" />
-</div> 
+  <a href="https://github.com/dotlincu/clusterizacao-risco-cardiaco" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=clusterizacao-risco-cardiaco&theme=dark" />
+  </a>
+  <a href="https://github.com/dotlincu/social-media-analysis" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=social-media-analysis&theme=dark" />
+  </a>
+  <a href="https://github.com/CDInacio/kanban" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CDInacio&repo=kanban&theme=dark" />
+  </a>
+  <a href="https://github.com/UFOP-CSI477/csi606-2023-02-atividades-sirlincu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UFOP-CSI477&repo=csi606-2023-02-atividades-sirlincu&theme=dark" />
+  </a>
+  <a href="https://github.com/dotlincu/GraphAlgorithms" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=GraphAlgorithms&theme=dark" />
+  </a>
+  <a href="https://github.com/dotlincu/conecta4" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=conecta4&theme=dark" />
+  </a>
+</div>
 
 
 
