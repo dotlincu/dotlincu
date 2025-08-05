@@ -2,22 +2,38 @@
 
 <div align="center">
   <a href="https://github.com/dotlincu">
-<!--   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dotlincu&theme=dark&show_icons=true&count_private=true"> -->
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dotlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dotlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/>
-<!--   <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=dotlincu&theme=dark&no-bg=true&no-frame=false&column=7"> -->
-<!--   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=dotlincu&layout=compact&langs_count=12&theme=dark"/> -->
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dotlincu&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotlincu&hide=html,css,mustache,jupyter%20notebook&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark" alt="Most Used Languages" />
+  <!-- <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dotlincu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <!-- <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dotlincu&hide=html,css,mustache&exclude_repo=bootcamp-data-science,confusion-matrix-metrics-comparison,ignorancia-zero&layout=compact&langs_count=6&theme=dark"/> -->
+
+  <!--  <img height="300px" src="https://github-profile-trophy.vercel.app/?username=dotlincu&theme=dark&no-bg=true&no-frame=false&column=5"> -->
+  <!--  <img height="150px" src="https://github-profile-trophy.vercel.app/?username=dotlincu&layout=compact&langs_count=12&theme=dark"/> -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dotlincu&theme=dark" alt="GitHub Streak" />
+  <!--  <img src="https://komarev.com/ghpvc/?username=dotlincu&color=blue&style=flat-square" alt="Contador de Visitas" /> -->
+  <!--  <img src="https://skillicons.dev/icons?i=python,r,sklearn,pandas,pytorch,mysql,git,docker&theme=dark" alt="Contador de Visitas" /> -->
 </div> 
     
 ##
 
-- 🌱 I’m currently learning Data Science with Python and R
+- 🌱 I’m currently learning Data Science with Python
 - 💬 Feel free to ask me about soccer, books, politics, anime, music, farming...
 - ⚡ Fun fact: In my childhood, I aspired to become a professional football player.
 - 🔭 I'm presently engaged in projects related to data analysis and business intelligence.
 <!-- - 📫 How to reach me: ... -->
   
 ## 
+<div style="display: inline_block" align="center"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=clusterizacao-risco-cardiaco&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=social-media-analysis&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CDInacio&repo=kanban&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UFOP-CSI477&repo=csi606-2023-02-atividades-sirlincu&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=GraphAlgorithms&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dotlincu&repo=adote-facil&theme=dark" />
+</div> 
+
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="lincu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -44,4 +60,3 @@
 </div>
 
 <!--  ![Snake animation](https://github.com/dotlincu/dotlincu/blob/output/github-contribution-grid-snake.svg) -->
-
