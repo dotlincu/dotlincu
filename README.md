@@ -13,6 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dotlincu&theme=dark" alt="GitHub Streak" />
   <!--  <img src="https://komarev.com/ghpvc/?username=dotlincu&color=blue&style=flat-square" alt="Contador de Visitas" /> -->
   <!--  <img src="https://skillicons.dev/icons?i=python,r,sklearn,pandas,pytorch,mysql,git,docker&theme=dark" alt="Contador de Visitas" /> -->
+
 </div> 
     
 ##
